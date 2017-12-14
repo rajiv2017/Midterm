@@ -1,0 +1,4 @@
+login your name and password
+create new project repository
+use command git add.Copy the the URL paste to the command line
+use git add and git commit to collect all files and commit the files and git status to publish your files
